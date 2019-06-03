@@ -2,7 +2,7 @@
   "name": "high-goal",
   "version": "1.0.0",
   "description": "huxiubang and zhangxingyun project",
-  "author": "huxiubang <huxiubang@kuaishou.com>",
+  "author": "huxiubang <>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
